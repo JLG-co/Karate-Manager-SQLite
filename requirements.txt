@@ -1,0 +1,7 @@
+bcrypt
+sqlmodel
+reflex
+passlib
+reportlab
+qrcode
+pillow
